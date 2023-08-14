@@ -46,4 +46,5 @@ Contributions are welcome! Please read the contribution guidelines first.
 
 ## License
 
-[MIT](LICENSE) © Michał Prządka
+Open-source software licensed under the MIT License.
+

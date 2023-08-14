@@ -1,4 +1,4 @@
-# Song Recognizer
+# Song Solver
 
 A Python application that allows users to sing in front of their laptop's microphone, processes the recording using the Whisper API, and then leverages a Large Language Model (LLM) to recognize the song.
 
@@ -13,12 +13,12 @@ A Python application that allows users to sing in front of their laptop's microp
 
 1. Clone this repository:
    ```
-   git clone https://github.com/przadka/song-recognizer.git
+   git clone https://github.com/przadka/song-solver.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd song-recognizer
+   cd song-solver
    ```
 
 3. Create and activate a virtual environment (optional, but recommended):

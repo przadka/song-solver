@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+
+# Development environment
+*.log
+*.sql
+*.sqlite
+
+# Virtual environments
+venv/
+*.venv
+venv.bak/
+*.venv.bak
+
+# Audio files
+*.mp3
+*.wav
+

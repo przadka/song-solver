@@ -13,7 +13,7 @@ A Python application that allows users to sing in front of their laptop's microp
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your_username/song-recognizer.git
+   git clone https://github.com/przadka/song-recognizer.git
    ```
 
 2. Navigate to the project directory:

@@ -40,10 +40,6 @@ python main.py
 ```
 Follow the on-screen prompts to record your song. The application will then attempt to recognize the song based on the provided recording.
 
-## Contribution
-
-Contributions are welcome! Please read the contribution guidelines first.
-
 ## License
 
 Open-source software licensed under the MIT License.

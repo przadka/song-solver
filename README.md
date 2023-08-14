@@ -2,13 +2,6 @@
 
 A Python application that allows users to sing in front of their laptop's microphone, processes the recording using the Whisper API, and then leverages a Large Language Model (LLM) to recognize the song.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [License](#license)
-
 ## Installation
 
 1. Clone this repository:
